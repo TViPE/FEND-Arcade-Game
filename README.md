@@ -7,11 +7,12 @@ The game consists of one player and serveral enemies crossing the road. The miss
 Heart :heart: and Gem :gem: are collectible items. Collecting :heart: will increase the player's lives.
 
 ![Alt text](https://github.com/TViPE/FEND-Arcade-Game/blob/master/images/screenshot_00.png)
+Live Deme: [Demo](https://tvipe.github.io/FEND-Arcade-Game/)
 
 ===============================
 
 ## How to get started
-- Visit [TViPE Pages](http://https://github.com/TViPE)
+- Visit [TViPE Pages](https://https://github.com/TViPE)
 - Select ** Arcade Game Clone - Crossy Queen **
 - Download the respository.
 - After downloading, double click on **index.html** to play.
