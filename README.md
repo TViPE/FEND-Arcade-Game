@@ -15,7 +15,7 @@ Live Demo: [Demo](https://tvipe.github.io/FEND-Arcade-Game/)
 ===============================
 
 ## How to get started
-- Visit [TViPE Pages](https://https://github.com/TViPE)
+- Visit [TViPE Pages](https://www.github.com/TViPE)
 - Select ** Arcade Game Clone - Crossy Queen **
 - Download the respository.
 - After downloading, double click on **index.html** to play.
